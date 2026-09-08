@@ -1,250 +1,228 @@
 <h1 align="center">Hi, I'm Drishti 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Cybersecurity+Student+%F0%9F%94%90;Cloud+%26+Security+Enthusiast+%E2%98%81%EF%B8%8F;Python+Learner+%F0%9F%90%8D;Linux+Explorer+%F0%9F%90%A7;Learning+to+Think+Like+a+Defender+%F0%9F%9B%A1%EF%B8%8F;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Cloud+%26+Security+Enthusiast;Python+Learner;Linux+Explorer;Learning+to+Think+Like+a+Defender;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DrishtiCyberEd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=DrishtiCyberEd&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Student-0e75b6?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20%26%20Security-Learning-5C6BC0?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Student-0A66C2?style=flat-square" alt="Cybersecurity Student">
+  <img src="https://img.shields.io/badge/Cloud%20%26%20Security-Learning-4285F4?style=flat-square" alt="Cloud and Security Learning">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Learning">
 </p>
 
 ---
 
 ## 👩🏻‍💻 About Me
 
-Hey! I'm **Drishti** — a BCA student specializing in **Cloud & Security** and currently building my way into the world of cybersecurity.
-
-I'm curious about how technology works, how things break, and most importantly...
-
-> **How do we make them more secure? 🔐**
-
-I'm currently exploring cybersecurity through **coursework, hands-on labs, certifications, experiments, and personal projects**.
-
-I learn best by actually getting my hands dirty — breaking things in controlled environments, figuring out why they broke, and learning how to fix or secure them.
+🎓 I'm a **BCA student specializing in Cloud & Security at Amity Online**.  
+🔐 I'm building my foundation in **cybersecurity, cloud security, programming, networking, Linux, and defensive security**.  
+🧪 I enjoy learning through **coursework, hands-on labs, certifications, experiments, and personal projects**.  
+💡 My goal is to understand not only *how technology works*, but also **how to protect it**.  
+🚀 This GitHub is where I document my learning journey, projects, experiments, and progress in cybersecurity.  
 
 ---
 
-## 🎓 Where I'm At Right Now
+## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**  
+### Bachelor of Computer Applications (BCA)
+
 **Specialization:** Cloud & Security  
-**University:** Amity Online
+**University:** Amity Online  
+**Current Semester:** Semester 1  
 
-📍 **Semester 1**
+### 📊 Current Progress
 
-```text
-Semester 1
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Modules Completed     ████████░░  3+
-Academic Badges       🏅 🏅 🏅
-Cybersecurity Journey 🚀 Just Getting Started
-```
-
-I'm currently focused on building strong fundamentals before diving deeper into advanced security concepts.
+- 📚 **4 Modules Completed**  
+- 🏅 **4 Academic Badges Earned**  
+- 🎯 **5 Semester 1 Subjects**  
+- 🔐 **Cybersecurity & Cloud Security Focus**  
 
 ---
 
-## 🛡️ My Cybersecurity Journey
-
-My current learning path looks something like this:
+## 🛡️ Cybersecurity Journey
 
 ```text
-                🌐 Networking
-                     │
-                     ▼
-              🐧 Linux & Systems
-                     │
-                     ▼
-             🔐 Cybersecurity
-                     │
-          ┌──────────┼──────────┐
-          ▼          ▼          ▼
-       🕵️ SOC     🔎 Threats   🛡️ Defense
-          │          │          │
-          └──────────┼──────────┘
-                     ▼
-              ☁️ Cloud Security
-                     │
-                     ▼
-              🤖 AI + Security
-```
+                    🔐 CYBERSECURITY
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+        ▼                  ▼                  ▼
+   🌐 Networking       🐧 Linux          💻 Programming
+        │                  │                  │
+        ▼                  ▼                  ▼
+  Network Security   System Security    Python / C
+        │                  │                  │
+        └──────────────────┼──────────────────┘
+                           │
+                           ▼
+                  🛡️ Defensive Security
+                           │
+            ┌──────────────┼──────────────┐
+            ▼              ▼              ▼
+       🔎 Threat       🚨 Incident      📊 SIEM &
+       Detection       Response        Monitoring
+            │              │              │
+            └──────────────┼──────────────┘
+                           │
+                           ▼
+                    ☁️ Cloud Security
+                           │
+                           ▼
+                 🤖 AI in Cybersecurity
+### Areas I'm Exploring
 
-### Areas I'm currently exploring
-
-- 🔐 Cybersecurity Fundamentals
-- 🌐 Network Security
-- 🐧 Linux & System Security
-- 🛡️ Defensive Security
-- 🔎 Threat Detection
-- 🚨 Incident Response
-- 📊 Security Monitoring & SIEM
-- ☁️ Cloud Security
-- 🐍 Python for Security Automation
-- 🤖 AI in Cybersecurity
+🔐 Cybersecurity Fundamentals  
+🌐 Network Security  
+🐧 Linux & System Security  
+🛡️ Defensive Security  
+🔎 Threat Detection  
+🚨 Incident Response  
+📊 Security Monitoring & SIEM  
+☁️ Cloud Security  
+🐍 Python for Security Automation  
+🤖 AI in Cybersecurity  
 
 ---
 
 ## 🏅 Academic Progress
 
-### Amity Online — Semester 1
+### Amity Online — BCA (Cloud & Security)  
+**Semester 1**
 
-I've completed my first **3 modules** and earned the corresponding academic badges.
+I'm currently progressing through my Semester 1 subjects and earning academic badges as I complete individual modules.
 
-<p align="center">
-  <img src="./assets/badges/introduction-to-computers.png" width="155" alt="Introduction to Computers badge">
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/badges/essential-english-grammar.png" width="155" alt="Essential English Grammar badge">
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/badges/written-english-communication.png" width="155" alt="Written English Communication badge">
-</p>
+📐 **1. Basic Mathematics**  
+1 module completed • 1 badge earned 🏅  
 
-<p align="center">
-  <strong>3 Modules Completed • 3 Badges Earned 🏅</strong>
-</p>
+💬 **2. Business Communication**  
+2 modules completed • 2 badges earned 🏅  
 
-| Module | Status |
-|---|---|
-| 💻 Introduction to Computers | ✅ Completed |
-| 📖 Essential English Grammar | ✅ Completed |
-| ✍️ Written English Communication | ✅ Completed |
+💻 **3. Computer & Information Technology**  
+1 module completed • 1 badge earned 🏅  
+
+👩🏻‍💻 **4. Programming in C**  
+📚 Currently progressing  
+
+⚖️ **5. Introduction to Cyber Laws**  
+📚 Currently progressing  
+
+### 📊 Semester 1 Snapshot
+
+| Subject                              | Badges Earned | Status         |
+| ------------------------------------ | ------------: | -------------- |
+| 📐 Basic Mathematics                 |          1 🏅 | 🟢 In Progress |
+| 💬 Business Communication            |          2 🏅 | 🟢 In Progress |
+| 💻 Computer & Information Technology |          1 🏅 | 🟢 In Progress |
+| 👩🏻‍💻 Programming in C             |             — | 📚 In Progress |
+| ⚖️ Introduction to Cyber Laws        |             — | 📚 In Progress |
+
+**4 Modules Completed • 4 Academic Badges Earned • 5 Semester 1 Subjects**
 
 ---
 
 ## 📜 Certifications & Training
 
-### 🟢 Google Cybersecurity Professional Certificate
-
-**9/9 courses completed ✅**
-
-Covered areas including:
-
-`Cybersecurity` • `Networking` • `Linux` • `SQL` • `Risk Management` • `Vulnerabilities` • `Incident Response` • `Python`
+🛡️ Google Cybersecurity Professional Certificate — ✅ Completed (9/9 Courses)  
+🚨 Microsoft Student SOC Program — ✅ Foundations Training Completed  
+☁️ Google Cloud Security Engineer — 📚 Currently Learning  
 
 ---
 
-### 🔵 Microsoft Student SOC Program
+## 🧰 Technical Toolkit
 
-**Foundations Training — Completed ✅**
+👩🏻‍💻 **Languages**  
+Python • C • Java • Bash • SQL  
 
----
+🖥️ **Operating Systems**  
+Linux • Ubuntu • Kali Linux • Windows  
 
-### ☁️ Google Cloud Security Engineer
+🛠️ **Tools & Technologies**  
+Git • GitHub • VS Code • PyCharm • Docker  
 
-**Currently learning 📚**
-
----
-
-## 🛠️ My Toolkit
-
-### 💻 Languages & Scripting
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,java,mysql" />
-</p>
-
-### 🐧 Operating Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4D4D4D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-</p>
-
-> 🧠 **Still learning, still experimenting, still breaking things (ethically 😌).**
+🔎 **Cybersecurity Tools**  
+Wireshark • Nmap • Burp Suite • Splunk  
 
 ---
 
-## 🧪 What You'll Find Around Here
+## 📂 What You'll Find Around Here
 
-This profile is a work in progress — just like my skills.
-
-🔐 **Cybersecurity Learning**  
-Hands-on labs, concepts, experiments and security exercises.
-
-🐧 **Linux Practice**  
-Commands, experiments and system-security learning.
-
-🌐 **Networking**  
-Network fundamentals, packet analysis and security concepts.
-
-🐍 **Python**  
-Small scripts, automation experiments and security-related projects.
-
-☁️ **Cloud Security**  
-Learning and practical work as I progress.
-
-🛠️ **Projects**  
-Things I build while learning — because theory is great, but building is better.
-
----
-
-## 📊 GitHub Activity
+```text
+📁 Cybersecurity Learning
+│
+├── 🔐 Cybersecurity Fundamentals
+├── 🌐 Networking
+├── 🐧 Linux & System Security
+├── 🛡️ Defensive Security
+├── 🔎 Threat Detection
+├── 🚨 Incident Response
+├── 📊 SIEM & Security Monitoring
+├── ☁️ Cloud Security
+├── 🐍 Python & Security Automation
+├── 👩🏻‍💻 Programming
+│
+└── 🚀 Personal Projects & Experiments
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrishtiCyberEd&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrishtiCyberEd&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=DrishtiCyberEd&show_icons=true&hide_border=true&rank_icon=github" alt="Drishti's GitHub Stats">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiCyberEd&layout=compact&hide_border=true" alt="Drishti's Top Languages">
 </p>
 
 ---
 
 ## 🧠 My Learning Philosophy
 
-I don't want to just **collect certificates**.
+> **Learn → Practice → Build → Document → Improve**
 
-I want to understand what I'm learning, practice it, build with it, and eventually be able to explain it to someone else.
+I believe cybersecurity isn't something you learn only from theory.  
+I'm focused on building practical understanding through:  
 
-```text
-          LEARN
-            ↓
-         PRACTICE
-            ↓
-          BUILD
-            ↓
-        DOCUMENT
-            ↓
-         IMPROVE
-            ↺
-```
+📚 Continuous learning  
+🧪 Hands-on labs  
+💻 Programming practice  
+🔐 Cybersecurity experiments  
+☁️ Cloud security exploration  
+📝 Documenting what I learn  
+🚀 Building projects  
 
 ---
 
 ## 🎯 Current Goals
 
-- 🔐 Strengthen my cybersecurity fundamentals
-- 🐧 Become more comfortable with Linux
-- 🌐 Build stronger networking knowledge
-- 🐍 Improve Python for security automation
-- ☁️ Develop practical cloud security skills
-- 🧪 Build more hands-on security projects
-- 📚 Keep documenting my learning journey
+🔐 Strengthen my cybersecurity fundamentals  
+🌐 Build stronger networking knowledge  
+🐧 Improve Linux skills  
+👩🏻‍💻 Become more confident with Python and C  
+☁️ Develop practical cloud security skills  
+🛡️ Learn defensive security and SOC operations  
+🤖 Explore AI applications in cybersecurity  
+🚀 Build meaningful cybersecurity projects  
+💼 Prepare for future internships and cybersecurity roles  
 
 ---
 
+## 🌱 Currently Learning
+
+```text
+🔐 Cybersecurity
+☁️ Cloud Security
+🐍 Python
+👩🏻‍💻 C Programming
+🐧 Linux
+🌐 Networking
+🛡️ Defensive Security
+🤖 AI + Cybersecurity
 <p align="center">
-  <strong>🔐 Learning cybersecurity one lab at a time.</strong>
+<b>🚀 Learning today. Building tomorrow. Defending the future.</b>
 </p>
 
 <p align="center">
-  <i>And yes... I'm probably going to break something while learning. 😭</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
+<i>Thanks for visiting my GitHub profile! 👋</i>
 </p>
