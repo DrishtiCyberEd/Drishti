@@ -89,10 +89,7 @@ AI in Cybersecurity
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrishtiCyberEd&show_icons=true&theme=tokyonight&hide_border=true" alt="Drishti's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiCyberEd&layout=compact&theme=tokyonight&hide_border=true" alt="Drishti's Top Languages" />
-</p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DrishtiCyberEd&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrishtiCyberEd&theme=tokyonight&hide_border=true" height="170" /> </p> 
 
 🌱 Current Goals
 Strengthen fundamentals in programming and mathematics
