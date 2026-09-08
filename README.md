@@ -87,11 +87,12 @@ AI in Cybersecurity
 <img src="https://skillicons.dev/icons?i=python,c,java,bash,postgresql,linux,ubuntu,kali,windows,git,github,vscode,pycharm,docker,wireshark" />
 </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DrishtiCyberEd&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiCyberEd&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=DrishtiCyberEd&show_icons=true&theme=tokyonight&hide_border=true" alt="Drishti's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiCyberEd&layout=compact&theme=tokyonight&hide_border=true" alt="Drishti's Top Languages" />
+</p> 
 
 🌱 Current Goals
 Strengthen fundamentals in programming and mathematics
