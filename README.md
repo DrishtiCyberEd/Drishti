@@ -1,7 +1,13 @@
-# 👩‍💻 Drishti — Cybersecurity Student
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Drishti%20Cybersecurity%20Student&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+</p>
 
-Welcome! I’m **Drishti** ([@DrishtiCyberEd](https://github.com/DrishtiCyberEd)), a **BCA student specializing in Cloud & Security at Amity University Online**.  
-Currently in **Semester 1**, I’m building a strong foundation in computer science, programming, and cybersecurity. My focus is on developing practical skills that will prepare me for **internships and entry‑level roles in cybersecurity**.
+<h3 align="center">✨ BCA Student | Cloud & Security | Cybersecurity Learner ✨</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7873f5&center=true&vCenter=true&width=500&lines=Building+Cybersecurity+Foundations;Exploring+Cloud+%26+Security;Future+Intern+%26+Security+Engineer" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -74,22 +80,38 @@ Currently in **Semester 1**, I’m building a strong foundation in computer scie
 ## 🛠️ Technical Toolkit
 
 **Languages:**  
-Python | C | Java | Bash | SQL  
+![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=3776AB)  
+![C](https://img.shields.io/badge/C-7873f5?style=for-the-badge&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 **Operating Systems:**  
-Linux | Ubuntu | Kali Linux | Windows  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 **Tools & Technologies:**  
-Git | GitHub | VS Code | PyCharm | Docker  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 **Cybersecurity Tools:**  
-Wireshark | Nmap | Burp Suite | Splunk  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats
-![Drishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrishtiCyberEd&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiCyberEd&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrishtiCyberEd&show_icons=true&theme=gradient&bg_color=30,ff6ec4,7873f5&title_color=fff&text_color=fff" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiCyberEd&layout=compact&theme=gradient&bg_color=30,7873f5,ff6ec4&title_color=fff&text_color=fff" alt="languages"/>
+</p>
 
 ---
 
@@ -101,4 +123,7 @@ Wireshark | Nmap | Burp Suite | Splunk
 
 ---
 
-✨ Thanks for visiting my profile! I’m committed to growing as a cybersecurity professional and excited to connect with opportunities that align with my learning journey.  
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
+</p>
