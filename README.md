@@ -11,48 +11,52 @@
 
 ---
 
-## 🎓 Education
-- **Bachelor of Computer Applications (BCA)** — Cloud & Security specialization  
-- **Amity University Online**  
-- Semester 1 (Current)
-
----
-
 ## 📘 Semester 1 Academic Progress
 
-### Subjects
-- Basic Mathematics  
-- Business Communication  
-- Computer & Information Technology  
-- Programming in C  
-- Introduction to Cyber Laws  
-
-### Badges Earned (Organized by Subject)
-
-#### 🧮 Basic Mathematics
-- Set Theory and Matrices  
-  ![Set Theory and Matrices](./assets/badges/basic-mathematics/Module_Completion___Set_Theory_and_Matrices.png)
-
-#### 📝 Business Communication
-- Essential English Grammar  
-  ![Essential English Grammar](./assets/badges/business-communication/Module_Completion__Essential_English_Grammar_29_Aug_2026_2c136c22.png)  
-- Written English Communication  
-  ![Written English Communication](./assets/badges/business-communication/Module_Completion__Written_English_Communication_29_Aug_2026_9b0ead26.png)
-
-#### 💻 Computer & Information Technology
-- Introduction to Computers  
-  ![Introduction to Computers](./assets/badges/computer-information-technology/Module_Completion___Introduction_to_Computers_29_Aug_2026_8c23c1fc.png)
-
-#### ⚙️ Programming in C
-- No badge yet  
-
-#### ⚖️ Introduction to Cyber Laws
-- No badge yet  
-
-**Progress Summary:**  
-- ✅ 4 Modules Completed  
-- 🏅 4 Academic Badges Earned  
-- 📚 5 Subjects in Semester 1  
+<p align="center">
+  <table>
+    <tr>
+      <!-- Basic Mathematics -->
+      <td align="center" width="50%" style="vertical-align:top;">
+        <h4>🧮 Basic Mathematics</h4>
+        <img src="./assets/badges/basic-mathematics/Module_Completion___Set_Theory_and_Matrices.png" width="120"/>
+      </td>
+      <!-- Business Communication -->
+      <td align="center" width="50%" style="vertical-align:top;">
+        <h4>📝 Business Communication</h4>
+        <img src="./assets/badges/business-communication/Module_Completion__Essential_English_Grammar_29_Aug_2026_2c136c22.png" width="120"/>
+        <br/>
+        <img src="./assets/badges/business-communication/Module_Completion__Written_English_Communication_29_Aug_2026_9b0ead26.png" width="120"/>
+      </td>
+    </tr>
+    <tr>
+      <!-- Computer & IT -->
+      <td align="center" width="50%" style="vertical-align:top;">
+        <h4>💻 Computer & Information Technology</h4>
+        <img src="./assets/badges/computer-information-technology/Module_Completion___Introduction_to_Computers_29_Aug_2026_8c23c1fc.png" width="120"/>
+      </td>
+      <!-- Programming in C -->
+      <td align="center" width="50%" style="vertical-align:top;">
+        <h4>⚙️ Programming in C</h4>
+        <p>No badge yet</p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Cyber Laws -->
+      <td align="center" width="50%" style="vertical-align:top;">
+        <h4>⚖️ Introduction to Cyber Laws</h4>
+        <p>No badge yet</p>
+      </td>
+      <!-- Progress Summary -->
+      <td align="center" width="50%" style="vertical-align:top;">
+        <h4>📊 Progress Summary</h4>
+        ✅ 4 Modules Completed <br/>
+        🏅 4 Academic Badges Earned <br/>
+        📚 5 Subjects in Semester 1
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -63,54 +67,17 @@
 
 ---
 
-## 🔐 Cybersecurity Learning Areas
-- Cybersecurity Fundamentals  
-- Network Security  
-- Linux & System Security  
-- Defensive Security  
-- Threat Detection  
-- Incident Response  
-- Security Monitoring & SIEM  
-- Cloud Security  
-- Python for Security Automation  
-- AI in Cybersecurity  
-
----
-
 ## 🛠️ Technical Toolkit
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=3776AB)  
-![C](https://img.shields.io/badge/C-7873f5?style=for-the-badge&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-**Operating Systems:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-
-**Tools & Technologies:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-
-**Cybersecurity Tools:**  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)  
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,bash,postgresql,linux,ubuntu,kali,windows,git,github,vscode,pycharm,docker,wireshark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrishtiCyberEd&show_icons=true&theme=gradient&bg_color=30,ff6ec4,7873f5&title_color=fff&text_color=fff" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiCyberEd&layout=compact&theme=gradient&bg_color=30,7873f5,ff6ec4&title_color=fff&text_color=fff" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DrishtiCyberEd&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiCyberEd&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
