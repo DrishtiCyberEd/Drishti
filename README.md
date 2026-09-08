@@ -67,6 +67,20 @@
 
 ---
 
+## 🔐 Cybersecurity Learning Areas
+- Cybersecurity Fundamentals  
+- Network Security  
+- Linux & System Security  
+- Defensive Security  
+- Threat Detection  
+- Incident Response  
+- Security Monitoring & SIEM  
+- Cloud Security  
+- Python for Security Automation  
+- AI in Cybersecurity  
+
+---
+
 ## 🛠️ Technical Toolkit
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,bash,postgresql,linux,ubuntu,kali,windows,git,github,vscode,pycharm,docker,wireshark" />
@@ -76,8 +90,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrishtiCyberEd&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiCyberEd&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DrishtiCyberEd&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DrishtiCyberEd&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
