@@ -20,9 +20,16 @@
 
 <h4>🧮 Basic Mathematics</h4>
 
-<img src="./assets/badges/basic-mathematics/Module_Completion__Introduction_to_Number_Systems.png" width="120"/>
-<br/>
-<img src="./assets/badges/basic-mathematics/Module_Completion___Set_Theory_and_Matrices.png" width="120"/>
+<table>
+<tr>
+<td align="center">
+<img src="./assets/badges/basic-mathematics/Module_Completion__Introduction_to_Number_Systems.png" width="110"/>
+</td>
+<td align="center">
+<img src="./assets/badges/basic-mathematics/Module_Completion___Set_Theory_and_Matrices.png" width="110"/>
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -30,25 +37,48 @@
 
 <h4>📝 Business Communication</h4>
 
-<img src="./assets/badges/business-communication/Module_Completion__Essential_English_Grammar_29_Aug_2026_2c136c22.png" width="120"/>
-<br/>
-<img src="./assets/badges/business-communication/Module_Completion__Written_English_Communication_29_Aug_2026_9b0ead26.png" width="120"/>
-<br/>
-<img src="./assets/badges/business-communication/Module_Completion___Concept_and_Nature_of_Communication.png" width="120"/>
+<table>
+<tr>
+<td align="center">
+<img src="./assets/badges/business-communication/Module_Completion__Essential_English_Grammar_29_Aug_2026_2c136c22.png" width="110"/>
+</td>
+<td align="center">
+<img src="./assets/badges/business-communication/Module_Completion__Written_English_Communication_29_Aug_2026_9b0ead26.png" width="110"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="./assets/badges/business-communication/Module_Completion___Concept_and_Nature_of_Communication.png" width="110"/>
+</td>
+<td></td>
+</tr>
+</table>
 
 </td>
 </tr>
+
 
 <tr>
 <td align="center" width="50%" style="vertical-align:top;">
 
 <h4>💻 Computer & Information Technology</h4>
 
-<img src="./assets/badges/computer-information-technology/Module_Completion___Introduction_to_Computers_29_Aug_2026_8c23c1fc.png" width="120"/>
-<br/>
-<img src="./assets/badges/computer-information-technology/Module_Completion___Introduction_to_Information_Technology.png" width="120"/>
-<br/>
-<img src="./assets/badges/computer-information-technology/Module_Completion___Operating_System.png" width="120"/>
+<table>
+<tr>
+<td align="center">
+<img src="./assets/badges/computer-information-technology/Module_Completion___Introduction_to_Computers_29_Aug_2026_8c23c1fc.png" width="110"/>
+</td>
+<td align="center">
+<img src="./assets/badges/computer-information-technology/Module_Completion___Introduction_to_Information_Technology.png" width="110"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="./assets/badges/computer-information-technology/Module_Completion___Operating_System.png" width="110"/>
+</td>
+<td></td>
+</tr>
+</table>
 
 </td>
 
@@ -56,16 +86,28 @@
 
 <h4>⚙️ Programming in C</h4>
 
-<img src="./assets/badges/programming-in-c/Module_Completion____Arrays_and_Functions.png" width="120"/>
-<br/>
-<img src="./assets/badges/programming-in-c/Module_Completion____Fundamental_Features_in_C_Decision_Making_in_C.png" width="120"/>
-<br/>
-<img src="./assets/badges/programming-in-c/Module_Completion____Introduction_to_Computer_Fundamentals.png" width="120"/>
-<br/>
-<img src="./assets/badges/programming-in-c/Module_Completion____Programming_in_C.png" width="120"/>
+<table>
+<tr>
+<td align="center">
+<img src="./assets/badges/programming-in-c/Module_Completion____Arrays_and_Functions.png" width="110"/>
+</td>
+<td align="center">
+<img src="./assets/badges/programming-in-c/Module_Completion____Fundamental_Features_in_C_Decision_Making_in_C.png" width="110"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="./assets/badges/programming-in-c/Module_Completion____Introduction_to_Computer_Fundamentals.png" width="110"/>
+</td>
+<td align="center">
+<img src="./assets/badges/programming-in-c/Module_Completion____Programming_in_C.png" width="110"/>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
+
 
 <tr>
 <td align="center" width="50%" style="vertical-align:top;">
