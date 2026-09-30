@@ -23,13 +23,13 @@
 <table>
 <tr>
 <td align="center">
-<img src="./assets/badges/basic-mathematics/Module_Completion__Introduction_to_Number_Systems.png" width="110"/>
+<img src="./assets/badges/basic-mathematics/Module%201.png" width="110"/>
 </td>
-<td align="center">
-<img src="./assets/badges/basic-mathematics/Module_Completion___Set_Theory_and_Matrices.png" width="110"/>
-</td>
+<td></td>
 </tr>
 </table>
+
+<p>1 / 5 Modules Completed</p>
 
 </td>
 
@@ -40,19 +40,31 @@
 <table>
 <tr>
 <td align="center">
-<img src="./assets/badges/business-communication/Module_Completion__Essential_English_Grammar_29_Aug_2026_2c136c22.png" width="110"/>
+<img src="./assets/badges/business-communication/Module%201.png" width="110"/>
 </td>
 <td align="center">
-<img src="./assets/badges/business-communication/Module_Completion__Written_English_Communication_29_Aug_2026_9b0ead26.png" width="110"/>
+<img src="./assets/badges/business-communication/Module%202.png" width="110"/>
 </td>
 </tr>
+
 <tr>
 <td align="center">
-<img src="./assets/badges/business-communication/Module_Completion___Concept_and_Nature_of_Communication.png" width="110"/>
+<img src="./assets/badges/business-communication/Module%203.png" width="110"/>
+</td>
+<td align="center">
+<img src="./assets/badges/business-communication/Module%204.png" width="110"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./assets/badges/business-communication/Module%205.png" width="110"/>
 </td>
 <td></td>
 </tr>
 </table>
+
+<p>5 / 5 Modules Completed</p>
 
 </td>
 </tr>
@@ -66,19 +78,31 @@
 <table>
 <tr>
 <td align="center">
-<img src="./assets/badges/computer-information-technology/Module_Completion___Introduction_to_Computers_29_Aug_2026_8c23c1fc.png" width="110"/>
+<img src="./assets/badges/computer-information-technology/Module%201.png" width="110"/>
 </td>
 <td align="center">
-<img src="./assets/badges/computer-information-technology/Module_Completion___Introduction_to_Information_Technology.png" width="110"/>
+<img src="./assets/badges/computer-information-technology/Module%202.png" width="110"/>
 </td>
 </tr>
+
 <tr>
 <td align="center">
-<img src="./assets/badges/computer-information-technology/Module_Completion___Operating_System.png" width="110"/>
+<img src="./assets/badges/computer-information-technology/Module%203.png" width="110"/>
+</td>
+<td align="center">
+<img src="./assets/badges/computer-information-technology/Module%204.png" width="110"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./assets/badges/computer-information-technology/Module%205.png" width="110"/>
 </td>
 <td></td>
 </tr>
 </table>
+
+<p>5 / 5 Modules Completed</p>
 
 </td>
 
@@ -89,21 +113,31 @@
 <table>
 <tr>
 <td align="center">
-<img src="./assets/badges/programming-in-c/Module_Completion____Arrays_and_Functions.png" width="110"/>
+<img src="./assets/badges/programming-in-c/Module%201.png" width="110"/>
 </td>
 <td align="center">
-<img src="./assets/badges/programming-in-c/Module_Completion____Fundamental_Features_in_C_Decision_Making_in_C.png" width="110"/>
+<img src="./assets/badges/programming-in-c/Module%202.png" width="110"/>
 </td>
 </tr>
+
 <tr>
 <td align="center">
-<img src="./assets/badges/programming-in-c/Module_Completion____Introduction_to_Computer_Fundamentals.png" width="110"/>
+<img src="./assets/badges/programming-in-c/Module%203.png" width="110"/>
 </td>
 <td align="center">
-<img src="./assets/badges/programming-in-c/Module_Completion____Programming_in_C.png" width="110"/>
+<img src="./assets/badges/programming-in-c/Module%204.png" width="110"/>
 </td>
 </tr>
+
+<tr>
+<td align="center">
+<img src="./assets/badges/programming-in-c/Module%205.png" width="110"/>
+</td>
+<td></td>
+</tr>
 </table>
+
+<p>5 / 5 Modules Completed</p>
 
 </td>
 </tr>
@@ -114,7 +148,8 @@
 
 <h4>⚖️ Introduction to Cyber Laws</h4>
 
-<p>No badge yet</p>
+<p>📝 No badges issued for this subject</p>
+<p>Assessment through marks</p>
 
 </td>
 
@@ -122,9 +157,12 @@
 
 <h4>📊 Progress Summary</h4>
 
-✅ 12 Modules Completed <br/>
-🏅 12 Academic Badges Earned <br/>
-📚 5 Subjects in Semester 1
+🏅 16 Academic Badges Earned <br/>
+📚 5 Subjects in Semester 1 <br/>
+🧮 Mathematics: 1 / 5 Modules <br/>
+📝 3 Subjects Fully Completed <br/>
+⚖️ Cyber Laws: Marks-Based Assessment <br/>
+📝 End Term Exam Remaining
 
 </td>
 </tr>
