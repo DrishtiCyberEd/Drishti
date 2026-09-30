@@ -172,11 +172,15 @@
 
 📜 Certifications & Training
 
-Google Cybersecurity Professional Certificate — Completed all 9 courses
+🎓 Amity Online — Advanced Excel Certificate — Completed
 
-Microsoft Student SOC Program Foundations Training — Completed
+🎓 Amity Online — Professional and Life Skills Certificate — Completed
 
-Google Cloud Security Engineer — Currently learning
+🔐 Google Cybersecurity Professional Certificate — Completed all 9 courses
+
+🛡️ Microsoft Student SOC Program Foundations Training — Completed
+
+☁️ Google Cloud Security Engineer — Currently learning
 
 🔐 Cybersecurity Learning Areas
 
