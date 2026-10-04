@@ -25,11 +25,29 @@
 <td align="center">
 <img src="./assets/badges/basic-mathematics/Module%201.png" width="110"/>
 </td>
+<td align="center">
+<img src="./assets/badges/basic-mathematics/Module%202.png" width="110"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./assets/badges/basic-mathematics/Module%203.png" width="110"/>
+</td>
+<td align="center">
+<img src="./assets/badges/basic-mathematics/Module%204.png" width="110"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="./assets/badges/basic-mathematics/Module%205.png" width="110"/>
+</td>
 <td></td>
 </tr>
 </table>
 
-<p>1 / 5 Modules Completed</p>
+<p>5 / 5 Modules Completed</p>
 
 </td>
 
@@ -157,12 +175,10 @@
 
 <h4>📊 Progress Summary</h4>
 
-🏅 16 Academic Badges Earned <br/>
-📚 5 Subjects in Semester 1 <br/>
-🧮 Mathematics: 1 / 5 Modules <br/>
-📝 3 Subjects Fully Completed <br/>
-⚖️ Cyber Laws: Marks-Based Assessment <br/>
-📝 End Term Exam Remaining
+<p>🏆 <strong>20/20 Module Badges Completed</strong></p>
+<p>✅ <strong>All 4 Badge-Based Subjects Completed</strong></p>
+<p>⚖️ <strong>Introduction to Cyber Laws</strong> — Marks-Based Subject</p>
+<p>🎓 <strong>End Term Exam</strong> — Remaining</p>
 
 </td>
 </tr>
